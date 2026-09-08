@@ -44,6 +44,17 @@ I build full-stack web platforms and native-ready mobile apps with a strong focu
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/Node.js-101b2c?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Next.js-101b2c?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/PHP-101b2c?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-101b2c?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/Firebase-101b2c?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MongoDB-101b2c?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Neon-101b2c?style=for-the-badge&logo=neon&logoColor=00E599" alt="Neon" />
+  <img src="https://img.shields.io/badge/Docker-101b2c?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Vitest-101b2c?style=for-the-badge&logo=vitest&logoColor=6E9F18" alt="Vitest" />
   <img src="https://img.shields.io/badge/Playwright-101b2c?style=for-the-badge&logo=playwright&logoColor=2EAD33" alt="Playwright" />
   <img src="https://img.shields.io/badge/Git-101b2c?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
