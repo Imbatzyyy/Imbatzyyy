@@ -50,6 +50,23 @@ I build full-stack web platforms and native-ready mobile apps with a strong focu
   <img src="https://img.shields.io/badge/GitHub-101b2c?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </p>
 
+## AI-assisted engineering
+
+I use AI coding agents as engineering multipliers for codebase analysis, implementation, debugging, documentation, and review. Their output is treated as a proposal: changes stay grounded in requirements and source code, are inspected in Git, and must pass the relevant tests, builds, security checks, and human review before release.
+
+<p>
+  <a href="https://openai.com/codex/"><img src="https://img.shields.io/badge/OpenAI_Codex-101b2c?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="OpenAI Codex" /></a>
+  <a href="https://www.anthropic.com/claude-code"><img src="https://img.shields.io/badge/Claude_Code-101b2c?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude Code" /></a>
+  <a href="https://opencode.ai/"><img src="https://img.shields.io/badge/OpenCode-101b2c?style=for-the-badge&logo=gnometerminal&logoColor=2dd4bf" alt="OpenCode" /></a>
+  <a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor-101b2c?style=for-the-badge&logo=cursor&logoColor=FFFFFF" alt="Cursor" /></a>
+  <a href="https://antigravity.google/"><img src="https://img.shields.io/badge/Google_Antigravity-101b2c?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google Antigravity" /></a>
+</p>
+
+- Directing scoped agent tasks with explicit requirements, boundaries, and acceptance criteria
+- Reviewing generated diffs instead of accepting opaque output
+- Verifying behavior with type checks, automated tests, production builds, and browser QA
+- Keeping credentials, production data, and privileged actions behind appropriate controls
+
 ## Featured work
 
 | Project | What it demonstrates | Stack |
