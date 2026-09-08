@@ -52,6 +52,8 @@ I build full-stack web platforms and native-ready mobile apps with a strong focu
   <img src="https://img.shields.io/badge/MongoDB-101b2c?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Neon-101b2c?style=for-the-badge&logo=neon&logoColor=00E599" alt="Neon" />
   <img src="https://img.shields.io/badge/Docker-101b2c?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Flutter-101b2c?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Cloudflare-101b2c?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare" />
 </p>
 
 <p>
