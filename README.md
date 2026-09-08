@@ -71,8 +71,12 @@ Quality                 Type checking, unit tests, browser QA, accessibility, an
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Imbatzyyy&show_icons=true&hide_border=true&bg_color=0d1626&title_color=ff7a45&text_color=b7c3d4&icon_color=2dd4bf&ring_color=ff7a45" alt="Prince Balane's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imbatzyyy&layout=compact&hide_border=true&bg_color=0d1626&title_color=ff7a45&text_color=b7c3d4" alt="Most used languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imbatzyyy&theme=github_dark" alt="Prince Balane's GitHub contribution summary" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Imbatzyyy&theme=github_dark" alt="Prince Balane's GitHub statistics" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imbatzyyy&theme=github_dark" alt="Repositories by language" />
 </div>
 
 <div align="center">
