@@ -58,6 +58,7 @@ I build full-stack web platforms and native-ready mobile apps with a strong focu
 | [**CozyCraft Mobile**](https://github.com/Imbatzyyy/CozyCraft-Furnitures-Mobile) | Native-ready customer application for Android and iOS with account security and notification flows | Angular, Ionic, Capacitor, React, Supabase |
 | [**CozyCraft Admin App**](https://github.com/Imbatzyyy/CozyCraft-Furnitures-Admin-App) | Mobile operations workspace covering orders, catalog, customers, reports, support, and secure notifications | Angular, Ionic, Capacitor, Supabase |
 | [**Quantum HRMS Security Dashboard**](https://github.com/Imbatzyyy/Quantumn-Art-Resources-Security-Dashboard) | Role-protected HR platform with security controls, accessible responsive portals, automated tests, and RLS-backed workflows | React 19, TypeScript, Supabase, Playwright, Vitest |
+| [**Tutok Pitik Studios**](https://github.com/Imbatzyyy/Tutok-Pitik-Studios) | Photography studio platform with portfolio discovery, bookings, client accounts, favorites, administration, and server-side workflows | React, TypeScript, Supabase, Tailwind CSS, Netlify |
 
 ## Engineering focus
 
